@@ -1,7 +1,7 @@
 # vsimpcss
 Vsimp CSS Style
 
-More info http://codes.icu/webcss/
+More info http://codes.icu/vsimpcss/
 
 CDN
 
