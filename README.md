@@ -1,7 +1,7 @@
 # vsimpcss
 Vsimp CSS Style
 
-More info http://codes.icu/vsimpcss/
+More info https://videoviral.id
 
 CDN
 
